@@ -45,4 +45,6 @@ e se você aprendeu alguma coisa com este repositório.
    "Aprendi que posso ajudar outras pessoas a aprenderem a programar e desenvolver softwares."
 2. [@hsbtiago](https://github.com/hsbtiago "Tiago Bernardo")
    "Acabei de aprender a usar o git e serei o maior hokage de todos os tempos, tô certo!"
-3. Deixe seu recado aqui.
+3. [@luanportugal](https://github.com/luanportugal "Luan Portugal") 
+   "Valeu Flávio, ajudou muito!"
+4. Deixe seu recado aqui.
